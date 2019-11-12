@@ -435,7 +435,7 @@ body {
           font-size: 20px; } }
       @media screen and (max-width: 480px) {
         .steps-inner .step p {
-          margin-top: 40px;
+          margin-top: 80px;
           font-size: 14px; } }
 
 .spain1-wrap {
