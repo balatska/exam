@@ -16,6 +16,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
 
     .logo {
         text-decoration: none;
@@ -61,7 +62,7 @@
             flex-direction: column;
             position: absolute;
             left: 0;
-            bottom: 14px;
+            bottom: 80px;
         }
 
         a {
